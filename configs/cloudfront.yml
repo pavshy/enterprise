@@ -1,0 +1,11 @@
+aws:
+  keyID: ""
+  secretKey: ""
+  bucket: ""
+
+clickhouse:
+  host: ""
+  port: ""
+  user: ""
+  password: ""
+  debug: true
